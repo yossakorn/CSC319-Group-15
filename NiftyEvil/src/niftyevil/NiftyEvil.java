@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package NiftyEvil;
+package niftyevil;
 
 import java.io.FileNotFoundException;
 import java.util.Scanner;
